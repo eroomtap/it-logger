@@ -1,0 +1,42 @@
+{
+	"logs":[
+		{
+			"id":1,
+			"message":"Workstation 007 not posting",
+			"attention":true,
+			"date":"02-03-2020",
+			"tech":"Pat Moore"
+		},
+		{
+			"id":2,
+			"message":"Progress not posting",
+			"attention":true,
+			"date":"03-02-2020",
+			"tech":"Anna Rogers"
+		},
+		{
+			"id":3,
+			"message":"Mirror not showing up for months",
+			"attention":false,
+			"date":"04-03-2020",
+			"tech":"Anna Moore"
+		}
+	],
+	"techs":[
+		{
+			"id":1,
+			"firstName":"Pat",
+			"lastName":"Moore"
+		},
+		{
+			"id":2,
+			"firstName":"Anna",
+			"lastName":"Rogers"
+		},
+		{
+			"id":3,
+			"firstName":"Anna",
+			"lastName":"Moore"
+		}
+	]
+}
